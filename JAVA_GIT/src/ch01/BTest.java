@@ -3,7 +3,8 @@ package ch01;
 public class BTest {
 	
 	public static void main(String[] args) {
-		System.out.println("BTest ÀÛ¼ºÇÏ°í  Team > COMMIT");
+		System.out.println("BTest ï¿½Û¼ï¿½ï¿½Ï°ï¿½  Team > COMMIT");
+		System.out.println("2nd COMMIT");
 	}
 
 }
